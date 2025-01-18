@@ -11,9 +11,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/USERNAME/REPONAME.git"
+    "url": "git+https://github.com/morce.dev/borderless-times.news.git"
   },
-  "author": "",
+  "author": "morce-dev",
   "license": "ISC",
   "description": "",
   "devDependencies": {
